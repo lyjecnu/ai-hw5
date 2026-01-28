@@ -1,0 +1,28 @@
+Training Text-Only Model...
+[Epoch 1/10] Avg Loss: 0.8338, Acc: 0.6415
+[Epoch 2/10] Avg Loss: 0.6586, Acc: 0.7521
+[Epoch 3/10] Avg Loss: 0.4872, Acc: 0.8265
+[Epoch 4/10] Avg Loss: 0.3487, Acc: 0.8831
+[Epoch 5/10] Avg Loss: 0.2357, Acc: 0.9256
+[Epoch 6/10] Avg Loss: 0.1782, Acc: 0.9459
+[Epoch 7/10] Avg Loss: 0.1160, Acc: 0.9681
+[Epoch 8/10] Avg Loss: 0.1064, Acc: 0.9697
+[Epoch 9/10] Avg Loss: 0.0803, Acc: 0.9778
+[Epoch 10/10] Avg Loss: 0.0586, Acc: 0.9853
+Model saved to model_params/text_only.pth
+[Text-Only] Val Acc: 0.6900, Val Loss: 1.3196
+Training Image-Only Model...
+[Epoch 1/10] Avg Loss: 0.8467, Acc: 0.6108
+[Epoch 2/10] Avg Loss: 0.7088, Acc: 0.6830
+[Epoch 3/10] Avg Loss: 0.5101, Acc: 0.7843
+[Epoch 4/10] Avg Loss: 0.2983, Acc: 0.8912
+[Epoch 5/10] Avg Loss: 0.1673, Acc: 0.9415
+[Epoch 6/10] Avg Loss: 0.1131, Acc: 0.9609
+[Epoch 7/10] Avg Loss: 0.0870, Acc: 0.9747
+[Epoch 8/10] Avg Loss: 0.0712, Acc: 0.9762
+[Epoch 9/10] Avg Loss: 0.0601, Acc: 0.9819
+[Epoch 10/10] Avg Loss: 0.0580, Acc: 0.9809
+Model saved to model_params/image_only.pth
+[Image-Only] Val Acc: 0.6025, Val Loss: 1.9773
+
+Process finished with exit code 0

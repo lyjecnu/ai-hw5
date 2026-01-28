@@ -1,0 +1,13 @@
+[Epoch 1/10] Avg Loss: 0.8096, Acc: 0.6480
+[Epoch 2/10] Avg Loss: 0.5876, Acc: 0.7593
+[Epoch 3/10] Avg Loss: 0.4055, Acc: 0.8462
+[Epoch 4/10] Avg Loss: 0.2409, Acc: 0.9122
+[Epoch 5/10] Avg Loss: 0.1342, Acc: 0.9594
+[Epoch 6/10] Avg Loss: 0.0948, Acc: 0.9678
+[Epoch 7/10] Avg Loss: 0.0724, Acc: 0.9781
+[Epoch 8/10] Avg Loss: 0.0478, Acc: 0.9875
+[Epoch 9/10] Avg Loss: 0.0344, Acc: 0.9909
+[Epoch 10/10] Avg Loss: 0.0297, Acc: 0.9916
+Model saved to model_params/late_fusion.pth
+validate accuracy:0.7025
+validate loss:1.300946400165558

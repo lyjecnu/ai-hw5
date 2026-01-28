@@ -1,0 +1,13 @@
+[Epoch 1/10] Avg Loss: 0.8148, Acc: 0.6396
+[Epoch 2/10] Avg Loss: 0.6014, Acc: 0.7593
+[Epoch 3/10] Avg Loss: 0.4166, Acc: 0.8396
+[Epoch 4/10] Avg Loss: 0.2566, Acc: 0.9081
+[Epoch 5/10] Avg Loss: 0.1271, Acc: 0.9578
+[Epoch 6/10] Avg Loss: 0.0736, Acc: 0.9809
+[Epoch 7/10] Avg Loss: 0.0547, Acc: 0.9828
+[Epoch 8/10] Avg Loss: 0.0403, Acc: 0.9891
+[Epoch 9/10] Avg Loss: 0.0349, Acc: 0.9897
+[Epoch 10/10] Avg Loss: 0.0308, Acc: 0.9909
+Model saved to model_params/cross_attention.pth
+validate accuracy:0.72
+validate loss:1.260144362449646

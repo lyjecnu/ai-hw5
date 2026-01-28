@@ -1,0 +1,23 @@
+[Epoch 1/20] Avg Loss: 1.0361, Acc: 0.5802
+[Epoch 2/20] Avg Loss: 0.8917, Acc: 0.5989
+[Epoch 3/20] Avg Loss: 0.8098, Acc: 0.6074
+[Epoch 4/20] Avg Loss: 0.7448, Acc: 0.6674
+[Epoch 5/20] Avg Loss: 0.6865, Acc: 0.7284
+[Epoch 6/20] Avg Loss: 0.6388, Acc: 0.7571
+[Epoch 7/20] Avg Loss: 0.6031, Acc: 0.7734
+[Epoch 8/20] Avg Loss: 0.5762, Acc: 0.7802
+[Epoch 9/20] Avg Loss: 0.5515, Acc: 0.7896
+[Epoch 10/20] Avg Loss: 0.5328, Acc: 0.7924
+[Epoch 11/20] Avg Loss: 0.5181, Acc: 0.7946
+[Epoch 12/20] Avg Loss: 0.5036, Acc: 0.7981
+[Epoch 13/20] Avg Loss: 0.4894, Acc: 0.8093
+[Epoch 14/20] Avg Loss: 0.4798, Acc: 0.8115
+[Epoch 15/20] Avg Loss: 0.4683, Acc: 0.8196
+[Epoch 16/20] Avg Loss: 0.4590, Acc: 0.8187
+[Epoch 17/20] Avg Loss: 0.4481, Acc: 0.8193
+[Epoch 18/20] Avg Loss: 0.4403, Acc: 0.8243
+[Epoch 19/20] Avg Loss: 0.4332, Acc: 0.8299
+[Epoch 20/20] Avg Loss: 0.4230, Acc: 0.8334
+Model saved to model_params/fine_tuned_clip.pth
+validate accuracy:0.755
+validate loss:0.6000703465938568

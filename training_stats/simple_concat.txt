@@ -1,0 +1,15 @@
+[Epoch 1/10] Avg Loss: 0.8304, Acc: 0.6318
+[Epoch 2/10] Avg Loss: 0.6081, Acc: 0.7496
+[Epoch 3/10] Avg Loss: 0.4321, Acc: 0.8349
+[Epoch 4/10] Avg Loss: 0.2774, Acc: 0.9062
+[Epoch 5/10] Avg Loss: 0.1770, Acc: 0.9478
+[Epoch 6/10] Avg Loss: 0.1187, Acc: 0.9637
+[Epoch 7/10] Avg Loss: 0.0666, Acc: 0.9794
+[Epoch 8/10] Avg Loss: 0.0485, Acc: 0.9862
+[Epoch 9/10] Avg Loss: 0.0382, Acc: 0.9878
+[Epoch 10/10] Avg Loss: 0.0344, Acc: 0.9897
+Model saved to model_params/simple_concat.pth
+validate accuracy:0.71875
+validate loss:1.206592001914978
+
+Process finished with exit code 0
